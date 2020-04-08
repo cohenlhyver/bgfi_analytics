@@ -1,6 +1,3 @@
-On a ajouté du texte ici !
-On a ajouté la ligne 2 ici
-On a ajouté la ligne 3 ici
-On a ajouté la ligne 4 ici
-On a ajouté la ligne 5 ici
-On a ajouté la ligne 6 ici
+test
+test2
+test3
